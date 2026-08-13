@@ -1,4 +1,6 @@
 # Quiz-game-project-
-quiz game eproject with html, css, javascript, bootstrap
+### Quiz Game Project with html, css, javascript, bootstrap
 
-![alt text](screenshot(3).jpg)
+![Start Screen](Screenshot1.png)
+![True Answer](Screenshot2.png)
+![False Answer](Screenshot3.png)
