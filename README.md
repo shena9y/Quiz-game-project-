@@ -7,6 +7,8 @@ An interactive multiple-choice quiz game built with HTML, CSS, Bootstrap and van
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Quiz-game-project-/](https://shena9y.github.io/Quiz-game-project-/)
+
 ## ✨ Features
 
 - 🎬 **Start screen** with a "Start Quiz" entry point
@@ -39,6 +41,8 @@ Quiz-game-project-/
 ```
 
 ## 🚀 Getting Started
+
+**Try it live:** [https://shena9y.github.io/Quiz-game-project-/](https://shena9y.github.io/Quiz-game-project-/) — no installation needed!
 
 No build step needed:
 
